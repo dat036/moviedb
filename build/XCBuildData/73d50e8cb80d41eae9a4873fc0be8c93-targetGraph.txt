@@ -1,0 +1,14 @@
+Target dependency graph (6 targets)
+Alamofire in Pods
+Kingfisher in Pods
+ObjectMapper in Pods
+Pods-moviebase in Pods, depends on:
+Alamofire in Pods (explicit)
+Kingfisher in Pods (explicit)
+ObjectMapper in Pods (explicit)
+Pods-moviebase-moviebaseUITests in Pods, depends on:
+Alamofire in Pods (explicit)
+Kingfisher in Pods (explicit)
+ObjectMapper in Pods (explicit)
+Pods-moviebaseTests in Pods, depends on:
+Pods-moviebase in Pods (explicit)
